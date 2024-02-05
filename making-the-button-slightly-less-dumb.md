@@ -16,3 +16,7 @@
 SA has no way of logging a user's IdP sel across sites.<br>
 Sites can't collude because they all have different private keys that each other cannot access because of CHIPS.<br>
 User has to pick their IdP the first time they access any RP, but only the first time.<br>
+
+## Terrible hand-drawn diagram by Nicole, to be replaced with something more legible
+
+![](button-terrible-diagram-1.png)
